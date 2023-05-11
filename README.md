@@ -12,3 +12,5 @@ For git training demonstration
 | main，dev删除相同文件  |此文件被删除 |mainDelete-devDelete.txt|
 | main删除文件，dev编辑此文件  |保留文件和文件改动 |mainDelete-devEdit.txt|
 | main编辑此文件，dev删除此文件  |保留main的改动 |mainEdit-devDelete.txt|
+
+hello world
