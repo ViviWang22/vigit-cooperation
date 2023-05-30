@@ -1,4 +1,11 @@
 --start--
+main
+main-keep
+--end--
+expect:
+main-keep
+dev-keep--start--
+main
 dev-keep
 --end--
 expect:

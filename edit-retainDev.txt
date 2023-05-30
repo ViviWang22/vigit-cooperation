@@ -1,4 +1,9 @@
 --start--
+main
+main-remove
+--end--
+expect:dev-keep--start--
+main
 dev-keep
 --end--
 expect:dev-keep
